@@ -6,8 +6,8 @@ D. Prelec, H. S. Seung ja J. McCoy ehdottavat tuoreessa tutkimuksessaan
 mielenkiintoista tapaa hyödyntää joukkoälyä. Heidän menetelmässään
 osallistujia pyydetään ensin arvioimaan onko jokin faktaväite tosi vai väärä.
 Seuraavaksi osallistujat arvioivat mikä vastaus on suosituin. Tutkimuksessa
-havaittiin että niiltä vastaajilta jotka tietoisesti vastasivat vastoin
-suosituinta vaihtoehtoa saatiin luotettavinta tietoa.
+havaittiin että vastaus jota pidetään epäsuosittuna mutta joka on
+todellisuudessa suosittu on useiten oikea.
 
 Harjoitustyön ideana on luoda prototyyppi jolle ylläpitäjä voi syöttää
 sopivia kysymyksiä. Kysymykset voivat koskea faktaväitteiden lisäksi vaikka
