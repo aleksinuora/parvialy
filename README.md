@@ -2,7 +2,7 @@
 
 ## Aihe
 
-D. Prelec, H. S. Seung ja J. McCoy ehdottavat tuoreessa tutkimuksessaan
+D. Prelec, H. S. Seung ja J. McCoy ehdottavat tutkimuksessaan
 mielenkiintoista tapaa hyödyntää joukkoälyä. Heidän menetelmässään
 osallistujia pyydetään ensin arvioimaan onko jokin faktaväite tosi vai väärä.
 Seuraavaksi osallistujat arvioivat mikä vastaus on suosituin. Tutkimuksessa
