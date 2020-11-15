@@ -1,0 +1,23 @@
+{% if session.username %}
+Olet kirjautunut nimellä {{ session.username }}<br>
+<a href="/user/{{ session.username }}">Profiili</a>
+<a href="/logout">Kirjaudu ulos</a>
+{% else %}
+<form action="/login" method="POST">
+Käyttäjätunnus:
+<input type="text" name="username">
+Salasana:
+<input type="password" name="password"><br>
+<input type="submit" value="Kirjaudu">
+</form>
+{% endif %}
+<div class="container" style="text-align:center;">
+  <img src="/static/beans.jpg"/>
+  <form action="/result" method="POST">
+  <p>Kuinta monta papua purkissa on?<br>
+  <input type="number" step="1" name="answer"></p>
+  <p>Mikä on suosituin vastaus edelliseen kysymykseen?<br>
+  <input type="number" step="1" name="popularAnswer"></p>
+  <input type="submit" value="Lähetä vastaukset">
+</div>
+<a href="/test">(tietokantatesti)</a>
