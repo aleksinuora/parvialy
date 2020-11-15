@@ -1,5 +1,15 @@
 # Ennustusmarkkinasovellus: prototyyppi
 
+## Käyttö
+
+[Heroku-linkki](http://parvialy.herokuapp.com/)
+v0.1: Ei mainittavaa toiminnallisuutta. Etusivu näyttää esimerkkikyselyn. Linkit johtavat
+	keskeneräisille sivuille. Ensimmäisen iteraation ainoana tavoitteena on testata
+	että perusasiat toimivat. Vasemman alanurkan linkki ohjaa sivulle joka ensin lukee
+	olemassaolevasta tietokannasta arvon, sitten yrittää lisätä uuden arvon ja lukea sen.
+	Sisäänkirjautuminen hyväksyy tällä hetkellä kaikki nimet ja salasanat. Sovelluksen
+	pitäisi muistaa syötetty nimi session ajan.
+
 ## Aihe
 
 D. Prelec, H. S. Seung ja J. McCoy ehdottavat tutkimuksessaan
